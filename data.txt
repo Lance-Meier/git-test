@@ -1,5 +1,5 @@
 let person = {
 name: "Lance",
 age: 32,
-favoriteColor: "Blue"
+favoriteFood: "Butter"
 };
